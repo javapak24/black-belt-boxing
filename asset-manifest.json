@@ -1,16 +1,33 @@
 {
   "files": {
-    "main.css": "/black-belt-boxing/static/css/main.f855e6bc.css",
-    "main.js": "/black-belt-boxing/static/js/main.369c919d.js",
+    "main.css": "/black-belt-boxing/static/css/main.7f035a1c.css",
+    "main.js": "/black-belt-boxing/static/js/main.484b5e93.js",
     "static/js/453.2cdf4fe5.chunk.js": "/black-belt-boxing/static/js/453.2cdf4fe5.chunk.js",
-    "static/media/logo.svg": "/black-belt-boxing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/brand-icons.svg": "/black-belt-boxing/static/media/brand-icons.6729d29753e000c17489.svg",
+    "static/media/icons.svg": "/black-belt-boxing/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/outline-icons.svg": "/black-belt-boxing/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
+    "static/media/icons.eot": "/black-belt-boxing/static/media/icons.a01e3f2d6c83dc3aee17.eot",
+    "static/media/icons.ttf": "/black-belt-boxing/static/media/icons.c656b8caa454ed19b9a2.ttf",
+    "static/media/brand-icons.eot": "/black-belt-boxing/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
+    "static/media/brand-icons.ttf": "/black-belt-boxing/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
+    "static/media/blackbelt_logo.jpg": "/black-belt-boxing/static/media/blackbelt_logo.45b818b62d1e33f3cbcb.jpg",
+    "static/media/brand-icons.woff": "/black-belt-boxing/static/media/brand-icons.cac87dc00c87a5d74711.woff",
+    "static/media/brand-icons.woff2": "/black-belt-boxing/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
+    "static/media/icons.woff": "/black-belt-boxing/static/media/icons.425399f81e4ce7cbd967.woff",
+    "static/media/icons.woff2": "/black-belt-boxing/static/media/icons.38c6d8bab26db77d8c80.woff2",
+    "static/media/logo.png": "/black-belt-boxing/static/media/logo.305502dfb5326cb33e27.png",
+    "static/media/outline-icons.eot": "/black-belt-boxing/static/media/outline-icons.752905fa5edf21fc52a1.eot",
+    "static/media/outline-icons.ttf": "/black-belt-boxing/static/media/outline-icons.5367103510b27b784827.ttf",
+    "static/media/flags.png": "/black-belt-boxing/static/media/flags.99f63ae7a743f21ab308.png",
+    "static/media/outline-icons.woff": "/black-belt-boxing/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
+    "static/media/outline-icons.woff2": "/black-belt-boxing/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/black-belt-boxing/index.html",
-    "main.f855e6bc.css.map": "/black-belt-boxing/static/css/main.f855e6bc.css.map",
-    "main.369c919d.js.map": "/black-belt-boxing/static/js/main.369c919d.js.map",
+    "main.7f035a1c.css.map": "/black-belt-boxing/static/css/main.7f035a1c.css.map",
+    "main.484b5e93.js.map": "/black-belt-boxing/static/js/main.484b5e93.js.map",
     "453.2cdf4fe5.chunk.js.map": "/black-belt-boxing/static/js/453.2cdf4fe5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.369c919d.js"
+    "static/css/main.7f035a1c.css",
+    "static/js/main.484b5e93.js"
   ]
 }
