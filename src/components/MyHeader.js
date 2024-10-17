@@ -1,6 +1,6 @@
 import React from 'react'
-import logo from '../logo.png'
-import pic from '../blackbelt_logo.jpg'
+import BBB from '../blackbelt_logo.jpg'
+
 import {
   Container,
   Grid,
@@ -16,10 +16,10 @@ export default function MyHeader() {
     <div>
       <Menu  inverted>
         
-      <Container>
+      <Container style={{ display: "flex", justifyContent: "space-between" , listStyle: "none"}}>
         <Menu.Item as='a' href ='#/' header>
-        <Image size='mini' src= {logo} style={{ marginRight: '1.5em' }} />
-        Javapak
+        <Image size='mini' src= {BBB} style={{ marginRight: '1.5em' }} />
+        BBB
         </Menu.Item>
         <Menu.Item as='a' href="#/">Home</Menu.Item>
         <Menu.Item as='a' href="#/pay">Secure Pay</Menu.Item>

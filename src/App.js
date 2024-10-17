@@ -10,6 +10,11 @@ function App() {
     <Routes>
       <Route path='/' element={<Home />} />
       <Route path='/black-belt-boxing' element={<Home />} />
+      <Route path='/contact' element={<Home />} />
+      <Route path='/usaboxing' element={<Home />} />
+      <Route path='/waiver' element={<Home />} />
+      <Route path='/pay' element={<Home />} />
+      <Route path='/schedule' element={<Home />} />
       <Route path='/about' element={<About />} />
     </Routes>
     </HashRouter>
