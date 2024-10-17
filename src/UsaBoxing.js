@@ -2,6 +2,7 @@ import React from 'react'
 import MyHeader from './components/MyHeader'
 import HomeMain from './components/HomeMain'
 import SuperHeader from './components/SuperHeader'
+import MyFooter from './components/MyFooter'
 
 export default function UsaBoxing() {
   return (
@@ -9,6 +10,7 @@ export default function UsaBoxing() {
     <SuperHeader/>
     <MyHeader/>
     <HomeMain/>
+    <MyFooter/>
    </div>
   )
 }

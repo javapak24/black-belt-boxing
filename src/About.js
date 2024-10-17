@@ -1,8 +1,8 @@
 import React from 'react'
 import MyHeader from './components/MyHeader'
-import HomeMain from './components/HomeMain'
 import SuperHeader from './components/SuperHeader'
 import AboutBios from './components/AboutBios'
+import MyFooter from './components/MyFooter'
 
 export default function About() {
   return (
@@ -10,6 +10,7 @@ export default function About() {
     <SuperHeader/>
     <MyHeader/>
     <AboutBios/>
+    <MyFooter/>
    </div>
   )
 }
