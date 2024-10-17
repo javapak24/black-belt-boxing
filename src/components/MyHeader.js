@@ -14,7 +14,7 @@ import {
 export default function MyHeader() {
   return (
     <div>
-      <Menu fixed='top' inverted>
+      <Menu  inverted>
         
       <Container>
         <Menu.Item as='a' href ='#/' header>
