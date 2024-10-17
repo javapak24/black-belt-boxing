@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  background-image: url("./boxingring2.jpg");
+  color: red;
+ }
+ 
+.homecontainer {
+  /* background-image: url("./boxingring2.jpg");
+  color:white; */
 }
 
 .App-logo {

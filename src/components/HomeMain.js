@@ -12,7 +12,7 @@ import {
 
 export default function HomeMain() {
   return (
-    <div>
+    <div class = "homecontainer">
       <Container text style={{ marginTop: '7em' }}>
       <Header as='h1'>Black Belt Boxing</Header>
       <Grid columns={2} divided>
