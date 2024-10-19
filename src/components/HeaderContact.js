@@ -1,7 +1,8 @@
 import React from 'react'
-import { ListItem, ListIcon, ListContent, List } from 'semantic-ui-react'
+import { ListItem, ListIcon, ListContent, List, Segment } from 'semantic-ui-react'
 
 const HeaderContact = () => (
+  <Segment inverted style= {{width: '100%', overflow: 'auto', textOverflow: 'ellipsis'}}>
   <List>
     <ListItem>
       <ListIcon name='phone' />
@@ -9,7 +10,7 @@ const HeaderContact = () => (
     </ListItem>
     <ListItem>
       <ListIcon name='marker' />
-      <ListContent>20 Baxter Road, Hyannis, MA, United States, Massachusetts</ListContent>
+      <ListContent>20 Baxter Road, Hyannis, MA, <br/> United States, Massachusetts</ListContent>
     </ListItem>
     <ListItem>
       <ListIcon name='mail' />
@@ -24,6 +25,7 @@ const HeaderContact = () => (
       </ListContent>
     </ListItem>
   </List>
+  </Segment>
 )
 
 export default HeaderContact

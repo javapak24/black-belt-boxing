@@ -16,7 +16,7 @@ export default function MyHeader() {
     <div>
       <Menu  inverted>
         
-      <Container style={{ display: "flex", justifyContent: "space-between" , listStyle: "none"}}>
+      <Container style={{ display: "flex", justifyContent: "space-between" , listStyle: "none", overflow: 'auto'}}>
         <Menu.Item as='a' href ='#/' header>
         <Image size='mini' src= {BBB} style={{ marginRight: '1.5em' }} />
         BBB
