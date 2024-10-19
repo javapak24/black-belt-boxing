@@ -1,7 +1,10 @@
+body {
+  width: max-content;
+}
+
 .App {
   text-align: center;
   background-image: url("./boxingring2.jpg");
-  color: red;
  }
  
 .homecontainer {
