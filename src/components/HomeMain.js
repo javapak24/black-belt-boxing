@@ -1,5 +1,10 @@
 import React from 'react'
-import mainpic from '../logo.png'
+import myring1 from '../myring1.png'
+import myring2 from '../myring2.png'
+import fac1 from '../facilities1.png'
+import fac2 from '../facilities2.png'
+import fac3 from '../facilities3.png'
+
 
 import {
     Container,
@@ -8,25 +13,27 @@ import {
     GridRow,
     Header,
     Image,
+    Segment,
   } from 'semantic-ui-react'
 
 export default function HomeMain() {
   return (
     <div class = "homecontainer">
       <Container text style={{ marginTop: '7em' }}>
+      <Segment inverted>
       <Header as='h1'>Black Belt Boxing</Header>
-      <Grid columns={2} divided>
-    <GridRow>
-      <GridColumn>
-      <Image src = {mainpic} size='small' circular />
-        </GridColumn>
+      </Segment>
+      <Grid columns={1}>
+        <GridRow>
         <GridColumn>
-        <p id='main_bio'>
-            Black Belt Boxing
-        </p>
-          </GridColumn>
+        <Image src = {myring1} size='huge' style = {{margin:'20px'}} />
+        <Image src = {myring2} size='huge' style = {{margin:'20px'}}  />
+        <Image src = {fac1} size='huge' style = {{margin:'20px'}}  />
+        <Image src = {fac2} size='huge' style = {{margin:'20px'}}  />
+        <Image src = {fac3} size='huge' style = {{margin:'20px'}}  />
+        </GridColumn>
         </GridRow>
-        </Grid>
+      </Grid>
     
       </Container>
     </div>
