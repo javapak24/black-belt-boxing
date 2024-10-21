@@ -3,6 +3,7 @@ import { HashRouter, Route, Routes } from 'react-router-dom';
 import Home from './Home';
 import About from './About';
 import Schedule from './Schedule';
+import Waiver from './Waiver';
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
       <Route path='/black-belt-boxing' element={<Home />} />
       <Route path='/contact' element={<Home />} />
       <Route path='/usaboxing' element={<Home />} />
-      <Route path='/waiver' element={<Home />} />
+      <Route path='/waiver' element={<Waiver />} />
       <Route path='/pay' element={<Home />} />
       <Route path='/schedule' element={<Schedule/>} />
       <Route path='/about' element={<About />} />
