@@ -2,6 +2,7 @@ import './App.css';
 import { HashRouter, Route, Routes } from 'react-router-dom';
 import Home from './Home';
 import About from './About';
+import Schedule from './Schedule';
 
 function App() {
   return (
@@ -14,7 +15,7 @@ function App() {
       <Route path='/usaboxing' element={<Home />} />
       <Route path='/waiver' element={<Home />} />
       <Route path='/pay' element={<Home />} />
-      <Route path='/schedule' element={<Home />} />
+      <Route path='/schedule' element={<Schedule/>} />
       <Route path='/about' element={<About />} />
     </Routes>
     </HashRouter>
