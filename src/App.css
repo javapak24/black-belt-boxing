@@ -1,6 +1,6 @@
-body {
+/* body {
   width: max-content;
-}
+} */
 
 .App {
   text-align: center;
@@ -20,6 +20,12 @@ body {
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    width: max-content;
   }
 }
 
