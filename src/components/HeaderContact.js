@@ -24,6 +24,12 @@ const HeaderContact = () => (
         <a href='javapak24.github.io/black-belt-boxing/'>blackbeltboxing.com</a>
       </ListContent>
     </ListItem>
+    <ListItem>
+      <ListIcon name='facebook' />
+      <ListContent>
+        <a href='https://www.facebook.com/p/Black-Belt-Boxing-Inc-61565732704741/'>facebook.com</a>
+      </ListContent>
+    </ListItem>
   </List>
   </Segment>
 )

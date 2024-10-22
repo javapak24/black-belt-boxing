@@ -4,6 +4,7 @@ import Home from './Home';
 import About from './About';
 import Schedule from './Schedule';
 import Waiver from './Waiver';
+import UsaBoxing from './UsaBoxing';
 
 function App() {
   return (
@@ -12,8 +13,7 @@ function App() {
     <Routes>
       <Route path='/' element={<Home />} />
       <Route path='/black-belt-boxing' element={<Home />} />
-      <Route path='/contact' element={<Home />} />
-      <Route path='/usaboxing' element={<Home />} />
+      <Route path='/usaboxing' element={<UsaBoxing />} />
       <Route path='/waiver' element={<Waiver />} />
       <Route path='/pay' element={<Home />} />
       <Route path='/schedule' element={<Schedule/>} />
