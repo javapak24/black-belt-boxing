@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/black-belt-boxing/static/css/main.4aeb11a3.css",
+    "main.css": "/black-belt-boxing/static/css/main.fc4e2306.css",
     "main.js": "/black-belt-boxing/static/js/main.e0aff396.js",
     "static/js/453.2cdf4fe5.chunk.js": "/black-belt-boxing/static/js/453.2cdf4fe5.chunk.js",
     "static/media/myring2.png": "/black-belt-boxing/static/media/myring2.9498aa997dd4b8852550.png",
@@ -13,7 +13,7 @@
     "static/media/jhardy1.png": "/black-belt-boxing/static/media/jhardy1.ef1e0d58b44e6937110d.png",
     "static/media/brand-icons.svg": "/black-belt-boxing/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/black-belt-boxing/static/media/icons.62d9dae4e0040e81c980.svg",
-    "static/media/boxingring2.jpg": "/black-belt-boxing/static/media/boxingring2.aeef35be01b7a7dd73be.jpg",
+    "static/media/boxingring_googlegemini.jpeg": "/black-belt-boxing/static/media/boxingring_googlegemini.c5aff632c6eaa0f691dd.jpeg",
     "static/media/outline-icons.svg": "/black-belt-boxing/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
     "static/media/icons.eot": "/black-belt-boxing/static/media/icons.a01e3f2d6c83dc3aee17.eot",
     "static/media/icons.ttf": "/black-belt-boxing/static/media/icons.c656b8caa454ed19b9a2.ttf",
@@ -31,12 +31,12 @@
     "static/media/outline-icons.woff": "/black-belt-boxing/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
     "static/media/outline-icons.woff2": "/black-belt-boxing/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/black-belt-boxing/index.html",
-    "main.4aeb11a3.css.map": "/black-belt-boxing/static/css/main.4aeb11a3.css.map",
+    "main.fc4e2306.css.map": "/black-belt-boxing/static/css/main.fc4e2306.css.map",
     "main.e0aff396.js.map": "/black-belt-boxing/static/js/main.e0aff396.js.map",
     "453.2cdf4fe5.chunk.js.map": "/black-belt-boxing/static/js/453.2cdf4fe5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4aeb11a3.css",
+    "static/css/main.fc4e2306.css",
     "static/js/main.e0aff396.js"
   ]
 }
