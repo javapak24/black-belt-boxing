@@ -2,7 +2,7 @@ import React from 'react'
 import { ListItem, ListIcon, ListContent, List, Segment } from 'semantic-ui-react'
 
 const HeaderContact = () => (
-  <Segment inverted style= {{width: '100%', overflow: 'auto', textOverflow: 'ellipsis'}}>
+  <Segment inverted style= {{width: 'max-content', overflow: 'auto', textOverflow: 'ellipsis'}}>
   <List>
     <ListItem>
       <ListIcon name='phone' />
