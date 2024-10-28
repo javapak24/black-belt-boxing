@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/black-belt-boxing/static/css/main.fc4e2306.css",
-    "main.js": "/black-belt-boxing/static/js/main.e0aff396.js",
+    "main.js": "/black-belt-boxing/static/js/main.7dc447de.js",
     "static/js/453.2cdf4fe5.chunk.js": "/black-belt-boxing/static/js/453.2cdf4fe5.chunk.js",
     "static/media/myring2.png": "/black-belt-boxing/static/media/myring2.9498aa997dd4b8852550.png",
     "static/media/myring1.png": "/black-belt-boxing/static/media/myring1.8065b410124b2f6b573c.png",
@@ -32,11 +32,11 @@
     "static/media/outline-icons.woff2": "/black-belt-boxing/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/black-belt-boxing/index.html",
     "main.fc4e2306.css.map": "/black-belt-boxing/static/css/main.fc4e2306.css.map",
-    "main.e0aff396.js.map": "/black-belt-boxing/static/js/main.e0aff396.js.map",
+    "main.7dc447de.js.map": "/black-belt-boxing/static/js/main.7dc447de.js.map",
     "453.2cdf4fe5.chunk.js.map": "/black-belt-boxing/static/js/453.2cdf4fe5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc4e2306.css",
-    "static/js/main.e0aff396.js"
+    "static/js/main.7dc447de.js"
   ]
 }
