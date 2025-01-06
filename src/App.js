@@ -5,21 +5,22 @@ import About from './About';
 import Schedule from './Schedule';
 import Waiver from './Waiver';
 import UsaBoxing from './UsaBoxing';
+import PaymentView from './PaymentView';
 
 function App() {
   return (
     <div>
-    <HashRouter>
-    <Routes>
-      <Route path='/' element={<Home />} />
-      <Route path='/black-belt-boxing' element={<Home />} />
-      <Route path='/usaboxing' element={<UsaBoxing />} />
-      <Route path='/waiver' element={<Waiver />} />
-      <Route path='/pay' element={<Home />} />
-      <Route path='/schedule' element={<Schedule/>} />
-      <Route path='/about' element={<About />} />
-    </Routes>
-    </HashRouter>
+      <HashRouter>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/black-belt-boxing" element={<Home />} />
+          <Route path="/usaboxing" element={<UsaBoxing />} />
+          <Route path="/waiver" element={<Waiver />} />
+          <Route path="/pay" element={<PaymentView />} />
+          <Route path="/schedule" element={<Schedule />} />
+          <Route path="/about" element={<About />} />
+        </Routes>
+      </HashRouter>
     </div>
   );
 }
