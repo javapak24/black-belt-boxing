@@ -44,7 +44,7 @@ export default function AboutBios() {
                 passing on his knowledge and passion for boxing to the next
                 generation of athletes. His standout coaching achievements
                 include guiding a young prodigy to win three Silver Gloves
-                championships, showcasing his ability to develop champions both
+                championships, as well as coaching the first female golden glove champion from cape cod, showcasing his ability to develop champions both
                 in and out of the ring. Whether you’re a beginner looking to
                 learn the fundamentals or an experienced boxer aiming to refine
                 your skills, Jesse’s expertise and commitment make him an

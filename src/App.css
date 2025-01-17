@@ -1,16 +1,17 @@
 /* body {
   width: max-content;
 } */
+@import "~react-responsive-carousel/lib/styles/carousel.min.css";
 
 .App {
   text-align: center;
   background-image: url("./boxingring_googlegemini.jpeg");
  }
  
-.homecontainer {
-  /* background-image: url("./boxingring2.jpg");
-  color:white; */
-}
+/* .homecontainer {
+  background-image: url("./boxingring2.jpg");
+  color:white;
+} */
 
 .App-logo {
   height: 40vmin;
@@ -52,3 +53,10 @@
     transform: rotate(360deg);
   }
 }
+
+.carousel-container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
