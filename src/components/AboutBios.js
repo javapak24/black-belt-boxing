@@ -39,16 +39,22 @@ export default function AboutBios() {
                 over 20 years of experience in the sport. Hailing from
                 Massachusetts, Jesse boasts an impressive career that includes
                 more than 40 amateur fights and multiple Golden Gloves
-                championships before transitioning to the professional ranks. As
-                a coach with over 5 years of experience, Jesse is dedicated to
-                passing on his knowledge and passion for boxing to the next
+                championships before transitioning to the professional ranks.
+                <br></br>
+                <br></br>
+                As a coach with over 5 years of experience, Jesse is dedicated
+                to passing on his knowledge and passion for boxing to the next
                 generation of athletes. His standout coaching achievements
                 include guiding a young prodigy to win three Silver Gloves
-                championships, as well as coaching the first female golden glove champion from cape cod, showcasing his ability to develop champions both
-                in and out of the ring. Whether you’re a beginner looking to
-                learn the fundamentals or an experienced boxer aiming to refine
-                your skills, Jesse’s expertise and commitment make him an
-                invaluable mentor for any aspiring fighter.
+                championships, as well as coaching the first female golden glove
+                champion from cape cod, showcasing his ability to develop
+                champions both in and out of the ring.
+                <br></br>
+                <br></br>
+                Whether you’re a beginner looking to learn the fundamentals or
+                an experienced boxer aiming to refine your skills, Jesse’s
+                expertise and commitment make him an invaluable mentor for any
+                aspiring fighter.
               </Segment>
             </GridColumn>
           </GridRow>
@@ -70,20 +76,24 @@ export default function AboutBios() {
                 deeply committed to giving back to the community. As the owner
                 of a local moving company, he played a pivotal role in
                 establishing our gym by securing the location and setting up all
-                the equipment, ensuring a space where athletes can thrive. For
-                over 5 years, John has demonstrated his passion for supporting
-                youth programs through the “Quarterback Club,” a fundraising
-                initiative for the local high school football team. Partnering
-                with local businesses, he created a discount card program that
-                not only benefited the community but also raised funds to cover
-                team dinners, events, and cherished memorabilia like letterman
-                jackets for graduating seniors. In addition to his contributions
-                outside the ring, John’s experience as a judge and referee at
-                amateur boxing tournaments adds a unique layer of expertise to
-                our gym. His knowledge, leadership, and unwavering dedication
-                make him an integral part of our coaching team, inspiring
-                athletes to reach their full potential both in the ring and in
-                life.
+                the equipment, ensuring a space where athletes can thrive.
+                <br></br>
+                <br></br>
+                For over 5 years, John has demonstrated his passion for
+                supporting youth programs through the “Quarterback Club,” a
+                fundraising initiative for the local high school football team.
+                Partnering with local businesses, he created a discount card
+                program that not only benefited the community but also raised
+                funds to cover team dinners, events, and cherished memorabilia
+                like letterman jackets for graduating seniors.
+                <br></br>
+                <br></br>
+                In addition to his contributions outside the ring, John’s
+                experience as a judge and referee at amateur boxing tournaments
+                adds a unique layer of expertise to our gym. His knowledge,
+                leadership, and unwavering dedication make him an integral part
+                of our coaching team, inspiring athletes to reach their full
+                potential both in the ring and in life.
               </Segment>
             </GridColumn>
           </GridRow>

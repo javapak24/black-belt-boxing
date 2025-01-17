@@ -15,6 +15,7 @@ import {
   Segment,
 } from 'semantic-ui-react';
 import ImageCarousel from './ImageCarousel';
+import GymLocation from './GymLocation';
 
 export default function HomeMain() {
   const images = [myring1, myring2, fac1, fac2, fac3];
@@ -37,6 +38,7 @@ export default function HomeMain() {
           </GridRow>
         </Grid> */}
         <ImageCarousel images={images}></ImageCarousel>
+        <GymLocation style={{ margin: '20px' }}></GymLocation>
       </Container>
     </div>
   );
