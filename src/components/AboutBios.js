@@ -35,11 +35,11 @@ export default function AboutBios() {
             </GridColumn>
             <GridColumn>
               <Segment inverted textAlign="left">
-                Jesse Barboza is a former professional heavyweight boxer with
-                over 20 years of experience in the sport. Hailing from
-                Massachusetts, Jesse boasts an impressive career that includes
-                more than 40 amateur fights and multiple Golden Gloves
-                championships before transitioning to the professional ranks.
+                Jesse Barboza is a professional heavyweight boxer with over 20
+                years of experience in the sport. Hailing from Massachusetts,
+                Jesse boasts an impressive career that includes more than 40
+                amateur fights and multiple Golden Gloves championships before
+                transitioning to the professional ranks.
                 <br></br>
                 <br></br>
                 As a coach with over 5 years of experience, Jesse is dedicated
