@@ -21,7 +21,14 @@ export default function HomeMain() {
   const images = [myring1, myring2, fac1, fac2, fac3];
 
   return (
-    <div class="homecontainer">
+    <div
+      class="homecontainer"
+      style={{
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+      }}
+    >
       <Container text style={{ marginTop: '7em' }}>
         <Segment inverted>
           <Header as="h1">Black Belt Boxing</Header>
