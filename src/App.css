@@ -28,6 +28,18 @@
   body {
     width: max-content;
   }
+  /* .footer-segment{
+    all: unset;
+    display: 'block';
+  } */
+}
+
+@media screen and (max-width: 760px){
+  .footer-container{
+    display: 'flex';
+    align-items: center;
+    justify-content: center;
+}
 }
 
 .App-header {
