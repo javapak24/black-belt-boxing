@@ -14,9 +14,10 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/black-belt-boxing" element={<Home />} />
+          <Route path="/home" element={<Home />} />
           <Route path="/usaboxing" element={<UsaBoxing />} />
           <Route path="/waiver" element={<Waiver />} />
-          <Route path="/pay" element={<PaymentView />} />
+          <Route path="/securepay" element={<PaymentView />} />
           <Route path="/schedule" element={<Schedule />} />
           <Route path="/about" element={<About />} />
         </Routes>
